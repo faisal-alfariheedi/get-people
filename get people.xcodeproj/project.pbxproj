@@ -17,6 +17,7 @@
 		3A9974F3276871F600F32696 /* get_peopleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9974F2276871F600F32696 /* get_peopleTests.swift */; };
 		3A9974FD276871F600F32696 /* get_peopleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9974FC276871F600F32696 /* get_peopleUITests.swift */; };
 		3A9974FF276871F600F32696 /* get_peopleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9974FE276871F600F32696 /* get_peopleUITestsLaunchTests.swift */; };
+		3A99750C27688C6F00F32696 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A99750B27688C6F00F32696 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3A9974F8276871F600F32696 /* get peopleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "get peopleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A9974FC276871F600F32696 /* get_peopleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = get_peopleUITests.swift; sourceTree = "<group>"; };
 		3A9974FE276871F600F32696 /* get_peopleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = get_peopleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3A99750B27688C6F00F32696 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				3A9974DA276871F400F32696 /* SceneDelegate.swift */,
 				3A9974DC276871F400F32696 /* ViewController.swift */,
 				3A9974DE276871F400F32696 /* Main.storyboard */,
+				3A99750B27688C6F00F32696 /* TableViewController.swift */,
 				3A9974E4276871F600F32696 /* Assets.xcassets */,
 				3A9974E6276871F600F32696 /* LaunchScreen.storyboard */,
 				3A9974E9276871F600F32696 /* Info.plist */,
@@ -264,6 +267,7 @@
 				3A9974DD276871F400F32696 /* ViewController.swift in Sources */,
 				3A9974D9276871F400F32696 /* AppDelegate.swift in Sources */,
 				3A9974DB276871F400F32696 /* SceneDelegate.swift in Sources */,
+				3A99750C27688C6F00F32696 /* TableViewController.swift in Sources */,
 				3A9974E3276871F400F32696 /* get_people.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
